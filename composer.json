@@ -1,0 +1,12 @@
+{
+    "name": "atef/php-tor-proxy",
+    "description": "TOR proxy PHP connector",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Atef Ben Ali",
+            "email": "atef.bettaib@gmail.com"
+        }
+    ],
+    "require": {}
+}
